@@ -1,0 +1,53 @@
+[
+    
+    {
+        "day": "Sun",
+        "startHh": "",
+        "startMm": "",
+        "endHh": "",
+        "endMm": ""
+    },
+    {
+        "day": "Mon",
+        "startHh": "08",
+        "startMm": "00",
+        "endHh": "16",
+        "endMm": "00"
+    },
+    {
+        "day": "Tue",
+        "startHh": "08",
+        "startMm": "00",
+        "endHh": "12",
+        "endMm": "00"
+    },
+    {
+        "day": "Wed",
+        "startHh": "08",
+        "startMm": "00",
+        "endHh": "16",
+        "endMm": "00"
+    },
+    {
+        "day": "Thu",
+        "startHh": "08",
+        "startMm": "00",
+        "endHh": "12",
+        "endMm": "00"
+    },
+    {
+        "day": "Fri",
+        "startHh": "08",
+        "startMm": "00",
+        "endHh": "16",
+        "endMm": "00"
+    },
+    {
+        "day": "Sat",
+        "startHh": "08",
+        "startMm": "00",
+        "endHh": "12",
+        "endMm": "00"
+    }
+]
+
